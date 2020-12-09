@@ -1,0 +1,6 @@
+Manufacturer;Product;Baud;Data;Parity;Stop;FC;CRLF
+MAHR;16EXu;4800;7;E;2;None;d
+#MAHR;16EXu;4800;7;E;2;None;d
+Silicon Labs;CP2102 USB to UART Bridge Controller;4800;7;E;2;None;d
+Dynastream Innovations;ANT USBStick2;9600;8;N;1;None;d
+Mitutoyo;SJ-210;9600;8;N;1;None;lfcr

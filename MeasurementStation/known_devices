@@ -1,0 +1,7 @@
+Id;Manufacturer;Product;Mode;Commands;Automatic/Manual
+0;Mitutoyo;USB-ITN;k;n;a
+1;MAHR;16EXu;s;n;a
+2;Chicony;USB Keyboard;k;n;a
+3;Silicon Labs;CP2102 USB to UART Bridge Controller;s;n;a
+4;Dynastream Innovations;ANT USBStick2;s;n;a
+5;Mitutoyo;SJ-210;s;y;m
