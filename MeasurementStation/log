@@ -12,3 +12,37 @@ Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemRes
 Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Bad Request
 Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Bad Request
 Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Bad Request
+H jan. 11 08:31:24 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+H jan. 18 10:33:21 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Mon Jan 18 14:53:04 2021Host requires authentication
+Wed Jan 20 11:40:21 2021Host requires authentication
+Wed Jan 20 11:40:33 2021Host requires authentication
+Sze jan. 20 12:57:03 2021Host requires authentication
+Sze jan. 20 13:24:25 2021Host requires authentication
+Sze jan. 20 14:39:35 2021Host requires authentication
+Cs jan. 21 10:11:28 2021Host requires authentication
+Cs jan. 21 10:50:55 2021Operation canceled
+Cs jan. 21 10:51:04 2021Operation canceled
+Cs jan. 21 10:51:21 2021Host requires authentication
+Cs jan. 21 11:07:49 2021Operation canceled
+Cs jan. 21 11:57:56 2021Operation canceled
+Cs jan. 21 12:47:44 2021Host requires authentication
+Cs jan. 21 13:51:52 2021Operation canceled
+Cs jan. 21 14:29:30 2021Host requires authentication
+Cs jan. 21 14:29:32 2021Host requires authentication
+Thu Feb 4 13:08:01 2021Host requires authentication
+Thu Feb 4 13:08:04 2021Host requires authentication
+Thu Feb 4 13:10:27 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Fri Feb 5 11:52:33 2021Host requires authentication
+Fri Feb 5 11:52:33 2021Host requires authentication
+Fri Feb 5 12:43:31 2021Host requires authentication
+Fri Feb 5 12:43:31 2021Host requires authentication
+Fri Feb 5 12:43:31 2021Host requires authentication
+Fri Feb 5 12:43:31 2021Host requires authentication
+Fri Feb 5 12:43:32 2021Host requires authentication
+Fri Feb 5 12:43:33 2021Host requires authentication
+Fri Feb 5 12:43:34 2021Host requires authentication
+Fri Feb 5 12:43:34 2021Host requires authentication
+Fri Feb 5 12:51:00 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Sze febr. 10 10:50:42 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Sze febr. 10 10:53:39 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
