@@ -46,3 +46,17 @@ Fri Feb 5 12:43:34 2021Host requires authentication
 Fri Feb 5 12:51:00 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
 Sze febr. 10 10:50:42 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
 Sze febr. 10 10:53:39 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Cs febr. 11 10:20:38 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Cs febr. 11 14:44:51 2021Host requires authentication
+Thu Feb 11 14:50:04 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/Article/GetActiveArticleParameterAsync?SessionId=15590096-0bb9-4f15-95d0-fcf6dfca1829&ArticleId=2&MeasuringPlanId=1&OperationId=2&MachineId=2 - server replied: Internal Server Error
+Thu Feb 11 14:55:14 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/Article/GetActiveArticleParameterAsync?SessionId=52bc927a-7c34-435a-ac03-f957f814c8d2&ArticleId=2&MeasuringPlanId=1&OperationId=2&MachineId=2 - server replied: Internal Server Error
+Thu Feb 11 14:58:56 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/Article/GetArticlesFromActiveMeasuringPlansAsync?SessionId=39fd3b6b-b835-426d-a4ad-52981adcca7d - server replied: Internal Server Error
+Fri Feb 12 12:49:11 2021Host requires authentication
+Fri Feb 12 12:49:17 2021Host requires authentication
+Mon Feb 15 13:32:34 2021Host uniturn.webapi.serviceflex.hu not found
+Wed Feb 17 11:51:20 2021Host requires authentication
+Cs febr. 18 08:46:33 2021Error transferring http://uniturn.identity.serviceflex.hu:5001/connect/token - server replied: Bad Request
+Cs febr. 18 09:00:56 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Internal Server Error
+Cs febr. 18 09:01:08 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Internal Server Error
+Cs febr. 18 09:01:09 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Internal Server Error
+Cs febr. 18 10:14:40 2021Error transferring http://uniturn.webapi.serviceflex.hu/api/MeasuringPlanItemResult/AddMeasuringPlanItemResultAsync - server replied: Internal Server Error
